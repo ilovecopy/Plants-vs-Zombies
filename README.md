@@ -1,4 +1,8 @@
-# Plants_vs_Zombies
-用python编写植物大战僵尸
+# Plants-vs-Zombies
 
-使用了pygame库
+植物大战僵尸游戏
+
+## Built With
+
+* [Pygame](http://www.dropwizard.io/1.0.2/docs/) - The library used
+
